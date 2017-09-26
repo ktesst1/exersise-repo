@@ -1,2 +1,4 @@
 # exersise-repo
-This will make a conflict!
+Repo made for exersises.
+Making changes in GitHub!
+We resolved the conflict!
